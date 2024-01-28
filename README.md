@@ -1,12 +1,20 @@
-# EE322
-## Styling
-**Bold**
+# Elizabeth MacDonald - EE322
+**Welcome to my GitHub!** 👋
 
-*Italic*
+![image](https://github.com/elizabeth674/EE322/assets/71655045/2269f53e-a52c-4bba-b6ce-d92d078b7b9d)
 
-***Bold and Italic***
-
-## Block Quote
+## Some hobbies of mine
+- Fencing
+- Video Games
+- Guitar
+- Football
+---
+## My Superbowl winner preferences
+1. Detroit Lions 
+2. Baltimore Ravens
+3. San Francisco 49ers
+4. Kansas City Chiefs 👎
+## Excerpt from Rick Astley's masterpiece, *Never Gonna Give You Up*
 >And if you ask me how I'm feeling
 Don't tell me you're too blind to see
 Never gonna give you up
@@ -15,17 +23,7 @@ Never gonna run around and desert you
 Never gonna make you cry
 Never gonna say goodbye
 Never gonna tell a lie and hurt you
-
-## Unordered List
-- George Washington
-* John Adams
-+ Thomas Jefferson
-
-## Ordered List
-1. James Madison
-1. James Monroe
-1. John Quincy Adams
-
+https://youtu.be/dQw4w9WgXcQ?si=UIJmLnb_0EbrOY2x
 ## Code
 Some basic Git commands are:
 ```
@@ -33,7 +31,12 @@ git status
 git add
 git commit
 ```
+## Styling
+**Bold**
 
+*Italic*
+
+***Bold and Italic***
 ## Horizontal Rule
 ---
 
