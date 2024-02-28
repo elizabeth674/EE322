@@ -23,3 +23,12 @@
 
 ## Address Example
 ![address example.](https://github.com/elizabeth674/EE322/assets/71655045/dd6d012f-0dec-415c-9e9d-0be0ff16abd9)
+
+## CPU Example
+![CPU example.](https://github.com/elizabeth674/EE322/assets/71655045/bb4c1eb1-930c-4358-a112-ea7fff3c35d5)
+
+## Battery Example
+![battery example.](https://github.com/elizabeth674/EE322/assets/71655045/c2c90d7d-8588-4eb3-a7c6-258cb0045c76)
+
+## Document Stats Example
+![document stats example.](https://github.com/elizabeth674/EE322/assets/71655045/d09b8661-2de4-4116-9f2c-7d1261a350fa)
