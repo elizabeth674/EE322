@@ -9,3 +9,6 @@
 ## http.js
 ![printed in terminal number of times page was refreshed.](https://github.com/elizabeth674/EE322/assets/71655045/a25924bc-e3cd-495c-9924-58cb378d616d)
 ![printed on page number of times page was refreshed.](https://github.com/elizabeth674/EE322/assets/71655045/6d5db885-1704-40a8-bed6-2cfe7210139b)
+
+## Pystache
+![example pystache code in terminal.](https://github.com/elizabeth674/EE322/assets/71655045/b6b93ee9-b059-4835-a18d-cfce62164291)
