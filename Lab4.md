@@ -14,8 +14,7 @@
 ![](https://github.com/elizabeth674/EE322/assets/71655045/9d2c848e-2f7c-4532-a0f6-33fa1130ea76)
 
 ## Edit settings.py in ~/stevens/stevens
-![](https://github.com/elizabeth674/EE322/assets/71655045/13f6e107-9b3f-4a42-b9ce-74d8afc3447e)
-![](https://github.com/elizabeth674/EE322/assets/71655045/535b7b19-dc38-4e03-83f5-5c582d4e2a27)
+![](https://github.com/elizabeth674/EE322/assets/71655045/2c25916a-cf6a-49e2-a1b6-3232e62974dc)
 
 ## Copy urls.py to ~/stevens/stevens
 ![](https://github.com/elizabeth674/EE322/assets/71655045/49f1ae31-92fb-474f-a96e-41582c0a3107)
@@ -31,4 +30,4 @@ API Key found from [Google Cloud](https://console.cloud.google.com/apis/credenti
 ![](https://github.com/elizabeth674/EE322/assets/71655045/a51f4bbe-5556-4c90-b941-ab80f32f3508)
 
 ## Copy static files
-
+![]()
