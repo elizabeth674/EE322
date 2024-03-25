@@ -19,3 +19,16 @@
 
 ## Copy urls.py to ~/stevens/stevens
 ![](https://github.com/elizabeth674/EE322/assets/71655045/49f1ae31-92fb-474f-a96e-41582c0a3107)
+
+## Copy admin.py, models.py, and views.py to ~/stevens/myapp
+![](https://github.com/elizabeth674/EE322/assets/71655045/2f9bd0bc-9154-4afa-91bc-8489602fde13)
+
+## Copy index.html
+![](https://github.com/elizabeth674/EE322/assets/71655045/1ef486f4-550d-4af4-afcd-8a9a3cc12377)
+
+## Edit index.html to add the Google Maps API key
+API Key found from [Google Cloud](https://console.cloud.google.com/apis/credentials?project=cpudata-417922)
+![](https://github.com/elizabeth674/EE322/assets/71655045/a51f4bbe-5556-4c90-b941-ab80f32f3508)
+
+## Copy static files
+
