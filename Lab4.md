@@ -31,7 +31,7 @@ API Key found from [Google Cloud](https://console.cloud.google.com/apis/credenti
 ![](https://github.com/elizabeth674/EE322/assets/71655045/a51f4bbe-5556-4c90-b941-ab80f32f3508)
 
 ### Copy static files
-![]()
+![](https://github.com/elizabeth674/EE322/assets/71655045/2e348f37-7e92-4d02-bcf5-78b35fbe2dba)
 
 ## Lab C: Flask
 ![](https://github.com/elizabeth674/EE322/assets/71655045/2d3e18fd-8ce8-49bc-81e5-450ca25d4fe3)
