@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 7 - Cloud Platforms
 
 ## Part A: ThingSpeak
 Run thingspeak_feed.py
