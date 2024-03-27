@@ -12,3 +12,9 @@
 
 ## Run Snakecoin server
 ![](https://github.com/elizabeth674/EE322/assets/71655045/22a22e90-54a9-436f-ba92-b967135ff8fe)
+![](https://github.com/elizabeth674/EE322/assets/71655045/0be6354d-113f-4418-a4b1-b9c3fde5ba80)
+
+## Python blockchain app
+![](https://github.com/elizabeth674/EE322/assets/71655045/eb19c53f-b073-452d-b3df-7c6e2680ca64)
+![](https://github.com/elizabeth674/EE322/assets/71655045/9e763a27-e1eb-4843-be0c-3b033ad58ac4)
+![](https://github.com/elizabeth674/EE322/assets/71655045/69a7d4fa-0bb7-4d1f-b36f-927f0368df67)
